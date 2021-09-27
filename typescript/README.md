@@ -1,3 +1,3 @@
 # Typescript
 
-- *.d.ts* to define variables that are avaible across the whole project.
+- **.d.ts** to define variables that are available across the whole project.
