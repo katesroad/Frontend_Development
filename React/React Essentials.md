@@ -21,5 +21,5 @@
 		 2. action
 		 3. function that generates action
 	 */
-    const reducerFn = (prevState, action) => updatedState;
+    const reducerFn = (prevState, change) => updatedState;
 	```
