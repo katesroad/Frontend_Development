@@ -11,7 +11,7 @@
 	- useReducer: useState in reducer pattern 
 	- useMemo: Memoize value between renders 
 	- useCallback: Persist ref equality between renders
-- [useReducer] 
+- [useReducer](https://gist.github.com/katesroad/2c6f00c9e98e0b815000649435525ac7)
 	```ts
 	const [state, setState] = useReducer(reducerFn, initialState];
 	/* action is the parameter used to change old state
