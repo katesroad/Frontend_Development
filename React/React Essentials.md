@@ -23,3 +23,5 @@
 	 */
     const reducerFn = (prevState, change) => newState;
 	```
+	
+- [Error Boundary in React](https://kentcdodds.com/blog/use-react-error-boundary-to-handle-errors-in-react)
