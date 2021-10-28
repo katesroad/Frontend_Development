@@ -3,3 +3,4 @@
 
 
 - [React-Query](React-Query.md)
+- [Timeline component](https://github.com/prabhuignoto/react-chrono)
