@@ -9,7 +9,9 @@
 7. To migrate applications with an existing codebase using react-query, we need to disable cache temporarily before the migration is done.
 8. To use react-query as state management solution, designing the queryKey properly is the key for a good architecture. Currently, the best practice is to utilize the [queryKey factories](https://tkdodo.eu/blog/effective-react-query-keys#use-query-key-factories)
 9. Naming convention
-   1.  get useGet[domainName]
-   2.  update/create/delete
+   1.  To define query/mutation name: get/update/create/delete useGet[domainName]
+   2.  To map query/mutation status
+        1. isLoding: userIsLoading
+        2. isSucess: userIsSuccess
 
 10. To make query to be more granularly(single responsibility, **KISS**)
