@@ -7,7 +7,7 @@
 5. [Testing React-Query](https://www.youtube.com/watch?v=ZfvOHRX-FDM&ab_channel=MaksimIvanov)
 6. When internet is offline, React-Query will pause after the first fetch, then continue with retries once you go online again
 7. To migrate applications with an existing codebase using react-query, we need to disable cache temporarily before the migration is done.
-8. To use react-query as state management solution for react-applications, designing the queryKey properly is the key for a good architecture.
+8. To use react-query as state management solution, designing the queryKey properly is the key for a good architecture. Currently, the best practice is to utilize the [queryKey factories](https://tkdodo.eu/blog/effective-react-query-keys#use-query-key-factories)
 9. Naming convention
    1.  get useGet[domainName]
    2.  update/create/delete
