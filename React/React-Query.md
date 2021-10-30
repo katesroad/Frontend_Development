@@ -12,4 +12,4 @@
    1.  get useGet[domainName]
    2.  update/create/delete
 
-10. To make query to be more granularly
+10. To make query to be more granularly(single responsibility)
