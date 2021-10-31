@@ -12,6 +12,6 @@
    1.  To define query/mutation name: get/update/create/delete useGet[domainName]
    2.  To map query/mutation status
         1. isLoding: userIsLoading
-        2. isSucess: userIsSuccess
+        2. isSucess: userIsLoaded
 
 10. To make query to be more granularly(single responsibility, **KISS**)
