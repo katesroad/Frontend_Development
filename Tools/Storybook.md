@@ -1,3 +1,3 @@
 # Storybook
 
-- [Official Doc](https://storybook.js.org/]
+- [Official Doc](https://storybook.js.org/)
