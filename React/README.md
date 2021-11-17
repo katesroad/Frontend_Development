@@ -1,3 +1,4 @@
+
 # React 
 
 - Architecture
@@ -15,3 +16,7 @@
 
 - Common Solutions for building React App
   - [Common solutions](Common%20Solutions.md)
+
+- Server side rendering solutions
+  - [Remix Run](https://remix.run/)
+    - [A first look at remix run](https://dev.to/dabit3/a-first-look-at-remix-run-449a)
