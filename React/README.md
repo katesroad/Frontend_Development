@@ -13,6 +13,7 @@
 
 - Tools for building React Application
   - [Tools](Tools.md)
+  - [Responsive React application](https://github.com/ReactTraining/react-media)
 
 - Common Solutions for building React App
   - [Common solutions](Common%20Solutions.md)
