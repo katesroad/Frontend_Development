@@ -26,3 +26,4 @@
 	
 - [Error Boundary in React](https://kentcdodds.com/blog/use-react-error-boundary-to-handle-errors-in-react)
 - [useMemo Vs useEffect + setState](https://stackoverflow.com/questions/56028913/usememo-vs-useeffect-usestate)
+- Combination usage of useState + useRef
