@@ -21,3 +21,6 @@
 - Server side rendering solutions
   - [Remix Run](https://remix.run/)
     - [A first look at remix run](https://dev.to/dabit3/a-first-look-at-remix-run-449a)
+
+- Responsive:
+  - [query match for react apps: react-query](https://www.npmjs.com/package/react-media)
