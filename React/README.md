@@ -23,7 +23,8 @@
     - [A first look at remix run](https://dev.to/dabit3/a-first-look-at-remix-run-449a)
 
 - Responsive:
-  - [query match for react apps: react-query](https://www.npmjs.com/package/react-media)
+  - [query match for react apps: react-media](https://www.npmjs.com/package/react-media)
 
 - Some awsome libraries
     - [datepicker without moment.js](https://www.npmjs.com/package/react-date-picker)
+    - [query string parse](https://www.npmjs.com/package/qs)
