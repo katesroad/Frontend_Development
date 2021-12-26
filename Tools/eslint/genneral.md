@@ -1,4 +1,4 @@
-# Eslint 
+# Some frequently used rules/plugins/extension 
 
 **About**: Collecting some eslint & [tslint](https://palantir.github.io/tslint/) rules 
 
