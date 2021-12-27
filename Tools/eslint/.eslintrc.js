@@ -261,7 +261,11 @@ module.exports = {
 				extensions: ['.js', '.jsx', '.ts', '.tsx'],
 				map: [['@sb', '.storybook']],
 			},
-			node: {},
+			node: {
+        extensions: ['.js', '.jsx', '.ts', '.tsx'],
+        // https://stackoverflow.com/questions/55198502/using-eslint-with-typescript-unable-to-resolve-path-to-module
+        moduleDiretory: ['node_modules', './src/']
+      },
 		},
 		react: {
 			version: 'detect',
