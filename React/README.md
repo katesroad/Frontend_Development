@@ -28,3 +28,6 @@
 - Some awsome libraries
     - [datepicker without moment.js](https://www.npmjs.com/package/react-date-picker)
     - [query string parse](https://www.npmjs.com/package/qs)
+- [Broadcast events to child component in React]
+    - [Example](https://codesandbox.io/s/event-broadcast-dq1hs)
+    - [discussion](https://github.com/facebook/react/issues/6646)
