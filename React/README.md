@@ -34,3 +34,5 @@
 
 - [Test React applications]
    - [Integration test for React](https://www.toptal.com/react/react-testing-library-tutorial#:~:text=Writing%20integration%20tests%20for%20a,maintainability%20without%20impairing%20development%20speed.)
+   - Unit test
+      - https://github.com/testing-library/jest-dom#tobevisible 
