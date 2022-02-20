@@ -8,3 +8,5 @@
 - Check User interaction with UI, warning user session is about expiring.
    - **How**:  Bind user interaction on window level, and setup check frequency
    - **user interaction events**.
+
+- Unit conversion solution: [math.js](https://github.com/josdejong/mathjs)
