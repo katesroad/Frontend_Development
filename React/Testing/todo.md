@@ -1,0 +1,1 @@
+1. What to test: https://daveceddia.com/what-to-test-in-react-app/
