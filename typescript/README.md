@@ -5,3 +5,4 @@
 	- **typeRoots**: In ***tsconfig.json***,  ***typeRoots*** specify the types definition source and avoid importing type definition redundantly
 
 - [declare vs export](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
+- Chanllenges: How to organize your typings?
