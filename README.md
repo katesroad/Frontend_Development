@@ -9,6 +9,7 @@ Some lectures, articles collected about the frontend development.
 - Debug
   - [How to debug on  pages on mobile safari](https://www.busbud.com/blog/debug-ios-safari-mac/)
 
-- [Micro frontend]
+- Micro frontend
   -  [Crash course](https://www.youtube.com/watch?v=lKKsjpH09dU&ab_channel=freeCodeCamp.org)
   -  [qiankun](https://qiankun.umijs.org/zh/api)
+  -  Microfrontend: https://www.buildingmicrofrontends.com/

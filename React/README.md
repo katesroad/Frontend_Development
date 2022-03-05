@@ -1,6 +1,12 @@
 
 # React 
 
+- Challenges:
+  - Historical project:
+	   - How to upgrade components without influencing exisitng features
+	   - Find a balance between configuration and modal composition
+	   - Before start programing, have a discussion/evaluation to component design
+
 - Architecture
   - [Architecture with Next.js](./Architecting%20with%20Next.js.md)
   - [React App Architecture](React%20App%20Architecture.md)

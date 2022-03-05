@@ -12,7 +12,7 @@
 	- Mock
 	- Identify what to test
 	- organize your test cases
-	  - Single assertion for a test case
+	  - Single action for a single test case
 	  - Principle: 
 	  	- arrange -> action -> assertion
 		- abstract duplication with beforeEach/beforeAll
