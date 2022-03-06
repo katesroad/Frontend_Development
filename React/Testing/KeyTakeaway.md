@@ -14,8 +14,15 @@
 	- organize your test cases
 	  - Single action for a single test case
 	  - Principle: 
-	  	- arrange -> action -> assertion
-		- abstract duplication with beforeEach/beforeAll
+	  	- How to organize:
+		  	- arrange -> action -> assertion
+			- abstract duplication with beforeEach/beforeAll
+		- General rules(From clean code)
+			- One assert per test
+			- Readable
+			- Fast
+			- Idenpendent
+			- repeatable 
 
 - References
 	1.  [arrange-act-assert-a-pattern-for-writing-good-tests](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/)
