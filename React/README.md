@@ -4,8 +4,8 @@
 - Challenges:
   - Historical project:
 	   - How to upgrade components without influencing exisitng features
-	   - Find a balance between configuration and modal composition
-	   - Before start programing, have a discussion/evaluation to component design
+	   - Find a balance between configuration and composition
+	   - Before start writing code, have a discussion/evaluation to component design
 
 - Architecture
   - [Architecture with Next.js](./Architecting%20with%20Next.js.md)
@@ -41,4 +41,4 @@
 - [Test React applications]
    - [Integration test for React](https://www.toptal.com/react/react-testing-library-tutorial#:~:text=Writing%20integration%20tests%20for%20a,maintainability%20without%20impairing%20development%20speed.)
    - Unit test
-      - https://github.com/testing-library/jest-dom#tobevisible 
+   	- https://github.com/testing-library/jest-dom#tobevisible 
