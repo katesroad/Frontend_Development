@@ -10,3 +10,4 @@
    - **user interaction events**.
 
 - Unit conversion solution: [math.js](https://github.com/josdejong/mathjs)
+- [Cleanup unused dependencies](https://www.jakeworth.com/how-i-clean-up-unused-javascript-dependencies/)
