@@ -1,4 +1,5 @@
 
+
 # React Essentials
 
 - [react-hooks-flow](https://github.com/donavon/hook-flow)
@@ -32,6 +33,6 @@
 	- https://reactjs.org/docs/events.html
 
 - static property
-        - [Add static property to React function component when using typescript](https://stackoverflow.com/questions/57712682/react-functional-component-static-property)
-        - [Static proeprty in React](https://reactjs.org/docs/higher-order-components.html#static-methods-must-be-copied-over)
-        - [Example](https://codesandbox.io/s/static-property-for-react-fc-3ti2xc)
+	- [Add static property to React function component when using typescript](https://stackoverflow.com/questions/57712682/react-functional-component-static-property)
+	-  [Static proeprty in React](https://reactjs.org/docs/higher-order-components.html#static-methods-must-be-copied-over)
+     - [Example](https://codesandbox.io/s/static-property-for-react-fc-3ti2xc)
