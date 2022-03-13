@@ -6,3 +6,4 @@
   const totalCost = items.reduce((accum, curr)) => accum + curr.cost, 0);
   ```
 - Positive first
+- [Inversion control](https://kentcdodds.com/blog/inversion-of-control)
