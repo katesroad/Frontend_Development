@@ -6,7 +6,7 @@
 	A time used as the main standard to cordindate and adjust time in the world.
 - [ISO8601](https://www.w3.org/TR/NOTE-datetime) and its two main formats
 	- Times are expressed in UTC (Coordinated Universal Time), with a special UTC designator ("Z").
-	- Times are expressed in UTC (Coordinated Universal Time), with a special UTC designator ("Z").
+	- Times are expressed in local time, together with a time zone offset in hours and minutes. A time zone offset of "+hh:mm" indicates that the date/time uses a local time zone which is "hh" hours and "mm" minutes ahead of UTC. A time zone offset of "-hh:mm" indicates that the date/time uses a local time zone which is "hh" hours and "mm" minutes behind UTC..
 - Unix Time
 
 ## Frequently asked questions
