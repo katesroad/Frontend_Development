@@ -18,4 +18,6 @@
   - Draw component relationships
   - Examples:
     ![drawing](imgs/hierarchy_relationship.jpg)
+- Delete code in codebase to see what is lost/broken to locate what you want to find
+- Search keywords to locate what you want to find
 
